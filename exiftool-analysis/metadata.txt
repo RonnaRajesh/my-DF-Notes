@@ -1,0 +1,113 @@
+ExifTool Version Number         : 13.25
+File Name                       : Forensics-image.png
+Directory                       : .
+File Size                       : 1144 kB
+File Modification Date/Time     : 2025:08:13 12:44:35-04:00
+File Access Date/Time           : 2025:08:13 12:44:35-04:00
+File Inode Change Date/Time     : 2025:08:13 12:44:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : GIMP 2.10.24
+Modify Date                     : 2021:04:21 11:06:39
+Compression                     : JPEG (old-style)
+Photometric Interpretation      : YCbCr
+Samples Per Pixel               : 3
+Thumbnail Offset                : 274
+Thumbnail Length                : 10518
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Document ID                     : abe0a1ac-5eab-0da8-95bd-708600000037
+Instance ID                     : xmp.iid:548742cb-1c07-4637-b643-8ef4b9225268
+Original Document ID            : xmp.did:96c2d07f-1130-7943-a690-75f4e4b8df44
+Format                          : JPEG
+Api                             : 2.0
+Platform                        : Windows
+Time Stamp                      : 1619017603306199
+Version                         : 2.10.24
+Create Date                     : 2021:03:05 05:59:37+01:00
+Creator Tool                    : GIMP 2.10
+Metadata Date                   : 2021:03:05 06:00:08+01:00
+Start Time Sample Size          : 1
+Start Time Scale                : 30
+Video Field Order               : Progressive
+Video Frame Rate                : 30.000000
+Video Pixel Aspect Ratio        : 1
+History Action                  : saved, created, saved, saved, saved
+History Changed                 : /, /, /metadata, /
+History Instance ID             : 2f16a2a1-a788-581b-efef-3cd600000064, xmp.iid:39ade4ec-d5b7-7f49-888a-f6f6290cdc59, xmp.iid:86f826e5-c474-d041-a043-2f32c868f0a6, xmp.iid:47944406-1b9a-894b-b41e-61c3d9779a69, xmp.iid:5a769677-4279-4264-ab7f-5f48fc97b45c
+History Software Agent          : Adobe Premiere Pro 2020.0 (Windows), Adobe Premiere Pro 2020.0 (Windows), Adobe Premiere Pro 2020.0 (Windows), Adobe Premiere Pro 2020.0 (Windows), Gimp 2.10 (Windows)
+History When                    : 2021:03:05 06:00:08+01:00, 2021:03:05 06:00:07+01:00, 2021:03:05 06:00:08+01:00, 2021:03:05 06:00:08+01:00, 2021:04:21 11:06:43
+Ingredients Document ID         : 197be4ed-1844-6a4e-9496-7bc400000063, 1bb70447-6a82-e158-6e95-9d5100000055, 9deca78d-633a-d8af-f1ba-3d7800000055, 9deca78d-633a-d8af-f1ba-3d7800000055, 15172856-323f-579b-c870-6c0b00000055, 15172856-323f-579b-c870-6c0b00000055, adobe:docid:photoshop:9f80929a-a816-f348-ab85-5136089c140b, c74b5c34-6d2b-9ced-34eb-d89900000043, cb68cefc-4c70-2e0c-7425-dc6900000043, cb68cefc-4c70-2e0c-7425-dc6900000043, cb68cefc-4c70-2e0c-7425-dc6900000043, cb68cefc-4c70-2e0c-7425-dc6900000043
+Ingredients File Path           : 580b57fcd9996e24bc43c521.png, Deeptom_video2_V3.mp4, Deeptom_video6_v3.mp4, Deeptom_video6_v3.mp4, Deeptom_video3_V6.mp4, Deeptom_video3_V6.mp4, bug video.png, data_dst.mp4, data_dst.mp4, data_dst.mp4, data_dst.mp4, data_dst.mp4
+Ingredients From Part           : time:0, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:0, time:20837779200000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:11362982400000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000
+Ingredients Instance ID         : 4e2ae0c4-a2ce-7c6e-343b-20b700000090, 88d52116-3f01-b2d6-de6e-806400000082, 9bedcda7-1d82-63cd-c416-ef3d00000082, 9bedcda7-1d82-63cd-c416-ef3d00000082, d3653208-f538-3e8d-5d2c-e1bf00000082, d3653208-f538-3e8d-5d2c-e1bf00000082, xmp.iid:188cdcbd-8e49-b04a-bad2-e15fd154af79, xmp.iid:b6ef1e7d-951b-5847-a1ce-aaa82943067a, xmp.iid:c2cb44c4-3a41-ec41-92d4-0671939721fe, xmp.iid:c2cb44c4-3a41-ec41-92d4-0671939721fe, xmp.iid:c2cb44c4-3a41-ec41-92d4-0671939721fe, xmp.iid:c2cb44c4-3a41-ec41-92d4-0671939721fe
+Ingredients Mask Markers        : None, None, None, None, None, None, None, None, None, None, None, None
+Ingredients To Part             : time:0d12125030400000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:0d29203372800000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000, time:846720000000f254016000000d8467200000f254016000000
+Derived From Document ID        : xmp.did:39ade4ec-d5b7-7f49-888a-f6f6290cdc59
+Derived From Instance ID        : xmp.iid:39ade4ec-d5b7-7f49-888a-f6f6290cdc59
+Derived From Original Document ID: xmp.did:39ade4ec-d5b7-7f49-888a-f6f6290cdc59
+Alt Timecode Time Format        : 30 fps
+Alt Timecode Time Value         : 00:00:03:10
+Duration Scale                  : 0.0333333333333333
+Duration Value                  : 1
+Project Ref Type                : Movie
+Start Timecode Time Format      : 30 fps
+Start Timecode Time Value       : 00:00:03:10
+Video Frame Size H              : 1280
+Video Frame Size Unit           : pixel
+Video Frame Size W              : 1440
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1439
+Image Height                    : 753
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1439x753
+Megapixels                      : 1.1
+Thumbnail Image                 : (Binary data 10518 bytes, use -b option to extract)

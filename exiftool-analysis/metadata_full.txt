@@ -1,0 +1,9 @@
+[ExifTool]      ExifTool Version Number         : 13.25
+[ExifTool]      Error                           : File is empty
+[File]          File Name                       : Forensics-image.png
+[File]          Directory                       : .
+[File]          File Size                       : 0 bytes
+[File]          File Modification Date/Time     : 2025:08:13 12:08:37-04:00
+[File]          File Access Date/Time           : 2025:08:13 12:34:40-04:00
+[File]          File Inode Change Date/Time     : 2025:08:13 12:08:37-04:00
+[File]          File Permissions                : -rw-rw-r--
